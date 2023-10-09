@@ -1,0 +1,30 @@
+[
+  {
+    "prizes": [
+      {
+        "id": 1,
+        "figure": "🔔",
+        "prizes_count": 20,
+        "chance": 25
+      },
+      {
+        "id": 2,
+        "figure": "❤️",
+        "prizes_count": 8,
+        "chance": 35
+      },
+      {
+        "id": 3,
+        "figure": "💎",
+        "prizes_count": 4,
+        "chance": 40
+      }
+    ],
+    "possible_bets": [
+      1,
+      5,
+      10
+    ],
+    "slot_count": 3
+  }
+]
